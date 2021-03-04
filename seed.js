@@ -2,7 +2,7 @@ const db = require('./models');
 
 const examples = [
   { name: 'Example 1', completed: true}, 
-  { body: 'Example 2', completed: false}
+  { name: 'Example 2', completed: false}
 ];
 const oneExample = { name: 'Example 3', completed: true };
 
